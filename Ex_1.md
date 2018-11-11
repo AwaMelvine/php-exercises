@@ -8,6 +8,7 @@
 | John  | 20   |
 | Mary  | 30   |
 | Smith | 45   |
+| Max   | 35   |
 
 3. $d = 'A00'. Using this variable print the following numbers:
 
